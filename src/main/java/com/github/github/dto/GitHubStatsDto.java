@@ -1,0 +1,14 @@
+package com.github.github.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+
+import java.util.Map;
+
+@Data
+@AllArgsConstructor
+public class GitHubStatsDto {
+    private int repositoryCount;
+    private int commitCount;
+    private Map<String, Integer> languageStats;
+}
