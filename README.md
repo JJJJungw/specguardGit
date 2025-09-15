@@ -43,3 +43,8 @@
     "language": "Python"
   }
 ]
+```
+
+### 2. 사용자 언어 통계 조회
+
+GET /api/github/languages/{username}
