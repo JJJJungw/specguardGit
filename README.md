@@ -64,8 +64,18 @@
 ```bash
 git clone https://github.com/your-github-id/github-repo-language-api.git
 cd github-repo-language-api
+```
 
 2. 환경 변수 설정
 application.yml 또는 application.properties 에 GitHub Personal Access Token을 등록합니다.
 
 3. 서버 실행
+
+### 4. 확장 아이디어
+
+-  레포지토리별 **최근 커밋 수 / 업데이트 주기 분석**  
+-  Fork/Star 기반 **인기 레포지토리 정렬 기능**  
+-  **프론트엔드 대시보드**와 연동 (Chart.js, Recharts 등)  
+-  사용자별 **기술 스택 프로필 자동 생성**  
+-  API 요청 시 **캐싱/레이트 리미팅** 적용 (Redis 등 활용)  
+-  클라우드 환경(AWS, GCP, Azure)에서 **서버리스 배포**  
