@@ -58,3 +58,14 @@
   "CSS": 364134
 }
 ```
+### 3. 실행 방법
+
+1. 저장소 클론
+```bash
+git clone https://github.com/your-github-id/github-repo-language-api.git
+cd github-repo-language-api
+
+2. 환경 변수 설정
+application.yml 또는 application.properties 에 GitHub Personal Access Token을 등록합니다.
+
+3. 서버 실행
