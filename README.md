@@ -73,7 +73,7 @@ application.yml 또는 application.properties 에 GitHub Personal Access Token�
 
 ### 4. 확장 아이디어
 
--  레포지토리별 **최근 커밋 수 / 업데이트 주기 분석**  
+-  레포지토리별 **최근 커밋 수/ 업데이트 주기 분석**  
 -  Fork/Star 기반 **인기 레포지토리 정렬 기능**  
 -  **프론트엔드 대시보드**와 연동 (Chart.js, Recharts 등)  
 -  사용자별 **기술 스택 프로필 자동 생성**  
