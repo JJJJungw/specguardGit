@@ -16,7 +16,7 @@
 - **Build Tool**: Gradle  
 - **Language**: Java 21  
 - **HTTP Client**: RestTemplate  
-- **External API**: GitHub REST API v3  
+- **External API**: GitHub REST API 
 
 ---
 
