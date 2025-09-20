@@ -1,6 +1,6 @@
 #  GitHub Repo & Language API  
 
-> Spring Boot 기반으로 구현한 REST API 서버로, GitHub API를 활용하여 특정 사용자의 **레포지토리 목록**과 **언어 사용 현황**을 조회합니다.  
+> Spring Boot 기반으로 구현한 REST API 서버로 , GitHub API를 활용하여 특정 사용자의 **레포지토리 목록**과 **언어 사용 현황**을 조회합니다.  
 
 ---
 
